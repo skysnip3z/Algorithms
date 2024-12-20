@@ -1,2 +1,2 @@
-# Algorithms
-A menagerie of practising algorithms & Data
+# Algorithms & Data
+A menagerie of practising Algorithms & Data
