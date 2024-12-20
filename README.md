@@ -1,2 +1,2 @@
 # Algorithms
-A menagerie of algorithms  
+A menagerie of practising algorithms  
